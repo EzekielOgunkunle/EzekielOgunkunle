@@ -49,9 +49,9 @@ I’m a hands-on technologist who loves turning ideas into working systems — f
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bukeze&show_icons=true&theme=github_dark" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bukeze&theme=github-dark-blue" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bukeze&layout=compact&theme=github_dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ezekielogunkunle&show_icons=true&theme=github_dark" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezekielogunkunle&theme=github-dark-blue" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezekielogunkunle&layout=compact&theme=github_dark" height="180px"/>
 </div>
 
 ---
