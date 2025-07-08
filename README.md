@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0D9276&center=true&width=435&lines=Hi+there!+I'm+Ezekiel+Ogunkunle.;I+build+software+that+just+works.;Let's+create+something+awesome+🚀" alt="Typing SVG" />
-
 # 👋 Hi, I'm Ezekiel Olubukola Ogunkunle
 
 I’m a hands-on technologist who loves turning ideas into working systems — fast, clean, and scalable. I work across web, cloud, and embedded spaces, with a growing focus on DevOps and systems thinking. Right now, I’m deep into building platforms, learning the DevOps lifecycle, and experimenting with automation and open-source.
